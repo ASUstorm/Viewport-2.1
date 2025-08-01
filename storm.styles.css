@@ -352,7 +352,7 @@ header, footer{
 @media screen and (max-width: 620px) {
     img {
         width: 500px;
-        max-width: 150px;
+        max-width: 500px;
     } 
 }
 
