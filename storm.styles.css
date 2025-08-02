@@ -83,20 +83,7 @@ table {
         color           : var(--white);
     }
 
-    header,
-    footer {
-        background-color: var(--black);
-        color           : var(--white);
-    }
 
-    section {
-        background-color: var(--blue-gray);
-        color           : var(--light-gray);
-    }
-
-    img {
-        filter: invert(1);
-    }
 }
 
 /* --------------- END USER PREFERS DARK COLOR SCHEME QUERY --------------- */
@@ -349,19 +336,7 @@ header, footer{
 
 
 
-@media screen and (max-width: 620px) {
-    img {
-        width: 500px;
-        max-width: 500px;
-    } 
-}
 
-@media screen and (max-width: 1380px) and (min-width: 620px) {
-    img {
-        width: 200px;
-        max-width: 200px;
-    } 
-}
 
 @media screen and (min-width: 1380px) {
     img {
