@@ -349,19 +349,7 @@ header, footer{
 
 
 
-@media screen and (max-width: 620px) {
-    img {
-        width: 500px;
-        max-width: 500px;
-    } 
-}
 
-@media screen and (max-width: 1380px) and (min-width: 620px) {
-    img {
-        width: 200px;
-        max-width: 200px;
-    } 
-}
 
 @media screen and (min-width: 1380px) {
     img {
